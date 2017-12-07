@@ -2,10 +2,10 @@
 Pure javascript prototype of iOS Facebook UI for React Native framework. This only includes the newsfeed page--more to be updated in the future!
 This application may not run correctly on Android. Feel free to submit a pull reqeust for the fixed styling for Android version.
 
-##Inspiration
+## Inspiration
 I was inspired by an app I use everyday--Facebook! :-)
 
-###Demo
+### Demo
 ![demo](https://raw.githubusercontent.com/ggomaeng/react-native-facebook-ui/master/demo.gif)
 
 Working on images: (1/5/2017)
